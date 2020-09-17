@@ -1,0 +1,27 @@
+style: is-light
+height: is-medium
+items:
+  - title: Cloud first for scalability
+    subtitle:
+    description: >
+      Our team have years of IT experience
+      to enable your website and applications to scale.
+    call_to_action_name: Find out more
+    call_to_action_link: /managed-platform/
+    image: /assets/png/bargraph.png
+  - title: Our team to help your team
+    subtitle:
+    description: >
+      Your development team need easy to use tools
+      so that they can focus on delivery.
+    call_to_action_name: Dev Tools
+    call_to_action_link: /dev-process-tools/
+    image: /assets/png/people.png
+  - title: Are you ready for the cloud?
+    subtitle:
+    description: >
+      You can transfer your business to the cloud.
+      Not just bits and bytes, processes too.
+    call_to_action_name: Ready to move?
+    call_to_action_link: /cloud-migration/
+    image: /assets/png/briefcase.png

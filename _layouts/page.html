@@ -1,0 +1,10 @@
+---
+layout: default
+---
+
+{% if page.toc %}
+    {% assign contentsTitle = page.toc_title | default: 'Contents' %}
+{% endif %}
+<div class="content">
+    {{ content }}
+</div>
