@@ -1,0 +1,28 @@
+style: is-light
+height: is-medium
+items:
+  - title: Established 2013
+    subtitle:
+    description: >
+      Neil Millard leads as a cloud expert and
+      published author.
+    call_to_action_name: Read the blog
+    call_to_action_link: http://www.neilmillard.com/blog/
+    image: /assets/png/neil_millard.png
+  - title: Eat Out to Help Out
+    subtitle:
+    description: >
+      Helping HMRC development teams with easy to use tools
+      so that they can focus on delivery.
+    call_to_action_name: Dev Tools
+    call_to_action_link: /dev-process-tools/
+    # size should be 175x175
+    image: /assets/png/eotho-logo_crop.png
+  - title: Who moved my servers?
+    subtitle:
+    description: >
+      You can read the book, written by our founder.
+      Available now on amazon.
+    call_to_action_name: Find the book
+    call_to_action_link: https://amzn.to/2HxjFXf
+    image: /assets/png/book_cover.png
