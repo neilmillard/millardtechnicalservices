@@ -19,6 +19,11 @@ mess of servers with data everywhere. How do you
 keep your cloud servers manageable and your data
 safe?
 
+With the cloud model you only pay for what you use,
+and matching demand saves money compared to the
+persistent model where you would have to provision
+servers at maximum capacity all the time.
+
 There are already tried-and-tested methods to migrate, re-platform
 and move towards customer-first, mobile-first and cloud-first
 applications – where you will save
