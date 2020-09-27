@@ -1,0 +1,21 @@
+style: is-light
+height: is-medium
+items:
+  - title: Deployment Automation
+    subtitle:
+    description: >
+      Using popular build, test and deploy tools
+      your teams can self serve deployments.
+    image: /assets/png/bargraph.png
+  - title: Our team to help your team
+    subtitle:
+    description: >
+      Your development team need easy to use tools
+      so that they can focus on delivery.
+    image: /assets/png/people.png
+  - title: All the tools
+    subtitle:
+    description: >
+      Our toolbox includes Jenkins, Terraform, Ansible.
+      Puppet, and a host of custom Python code.
+    image: /assets/png/briefcase.png

@@ -37,3 +37,5 @@ together with the practicalities of building and operating
 enterprise infrastructure environments, we build
 a cloud-first, Agile system. By utilising open source
 software with a plan, we create great results!
+
+<a href="/contact/" class="button is-primary">Contact</a>

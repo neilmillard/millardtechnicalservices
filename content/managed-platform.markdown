@@ -32,3 +32,5 @@ deployment and operation**
 Step three: **Scaling for flexible workloads**
 
 Step four: **Keeping the data safe**
+
+<a href="/contact/" class="button is-primary">Contact</a>
