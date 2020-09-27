@@ -1,0 +1,24 @@
+style: is-light
+height: is-medium
+items:
+  - title: Disaster recovery
+    subtitle:
+    description: >
+      Virtualise delicate servers and services with
+      backups for peace of mind.
+    image: /assets/png/briefcase.png
+  - title: Design for cloud
+    subtitle:
+    description: >
+      Take advantage of scaling and quick recovery
+      to save money or scale to demand.
+    # size should be 175x175
+    image: /assets/png/bargraph.png
+  - title: Need help now?
+    subtitle:
+    description: >
+      Contact us to discuss how we can work
+      with your team.
+    call_to_action_name: Contact
+    call_to_action_link: /contact/
+    image: /assets/png/people.png
