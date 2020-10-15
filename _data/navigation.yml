@@ -1,5 +1,7 @@
 - name: About
   link: /about/
+- name: Book
+  link: /book/
 - name: Services
   link: /services/
   dropdown:
