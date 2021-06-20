@@ -20,6 +20,7 @@ hero_height: is-small
           <option value="Development Process Tooling">Development Process Tooling</option>
           <option value="Other">Other.</option>
         </select>
+      </p>
       <p>Your Message<br />
         <textarea cols="40" rows="10" name="message"></textarea></p>
       <p><input type="submit" value="Send"></p>
