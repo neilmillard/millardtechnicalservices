@@ -12,6 +12,14 @@ hero_height: is-small
         <input type="text" size="40" aria-required="true" name="name"></p>
       <p>Your Email (required)<br />
         <input type="email" size="40" aria-required="true" name="_replyto"></p>
+      <p>Area of interest<br />
+        <select name="AOI" id="department" required="">
+          <option value="Select" selected="" disabled="">Select</option>
+          <option value="Cloud Migration">Cloud Migration</option>
+          <option value="Managed Platform">Managed Platform</option>
+          <option value="Development Process Tooling">Development Process Tooling</option>
+          <option value="Other">Other.</option>
+        </select>
       <p>Your Message<br />
         <textarea cols="40" rows="10" name="message"></textarea></p>
       <p><input type="submit" value="Send"></p>
