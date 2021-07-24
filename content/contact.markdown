@@ -15,6 +15,7 @@ hero_height: is-small
       <p>Area of interest<br />
         <select name="AOI" id="department" required="">
           <option value="Select" selected="" disabled="">Select</option>
+          <option value="Technical Candidate Review">Technical Candidate Review</option>
           <option value="Cloud Migration">Cloud Migration</option>
           <option value="Managed Platform">Managed Platform</option>
           <option value="Development Process Tooling">Development Process Tooling</option>

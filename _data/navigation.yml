@@ -7,6 +7,8 @@
   dropdown:
     - name: Cloud Migration
       link: /cloud-migration/
+    - name: Skills Testing
+      link: /skills-testing/
     - name: Managed Platform
       link: /managed-platform/
     - name: Development Process Tooling
