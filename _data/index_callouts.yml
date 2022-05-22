@@ -17,11 +17,11 @@ items:
     call_to_action_name: Dev Tools
     call_to_action_link: /dev-process-tools/
     image: /assets/png/people.png
-  - title: Are you ready for the cloud?
+  - title: Need help hiring technical staff?
     subtitle:
     description: >
-      You can transfer your business to the cloud.
-      Not just bits and bytes, processes too.
-    call_to_action_name: Ready to move?
-    call_to_action_link: /cloud-migration/
+      We can help with technical interviews.
+      Unbiased report with clear next steps.
+    call_to_action_name: Ready to hire?
+    call_to_action_link: /skills-testing/
     image: /assets/png/briefcase.png
