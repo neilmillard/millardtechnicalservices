@@ -13,6 +13,9 @@ by partnering with us to provide easy to use deployment and hosting solutions.
 Providing CI/CD (Continuous Improvement/Continuous Development), enables more frequent testing and deployments and
 to provide fast feedback to the developers and customers.
 
+As a Professional IT contractor, Neil Millard understands the complexity of operating as a Limited Company
+in the UK. We can help you become a Confident Contractor, with our training and IT Contractor support services.
+
 Most recently we have helped the application teams at HMRC to deliver the COVID-19 services. 
 These include the Job Retention Scheme and Eat Out to Help Out. 
 Helping form part of HMRCs own teams, 

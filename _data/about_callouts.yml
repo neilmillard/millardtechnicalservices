@@ -9,15 +9,15 @@ items:
     call_to_action_name: Read the blog
     call_to_action_link: http://www.neilmillard.com/blog/
     image: /assets/png/neil_millard.png
-  - title: Eat Out to Help Out
+  - title: Confident Contractor
     subtitle:
     description: >
-      Helping HMRC development teams with easy to use tools
+      Providing training and support for IT Contractors
       so that they can focus on delivery.
-    call_to_action_name: Dev Tools
-    call_to_action_link: /dev-process-tools/
+    call_to_action_name: Confident Contractor
+    call_to_action_link: /confident-contractor/
     # size should be 175x175
-    image: /assets/png/eotho-logo_crop.png
+    image: /assets/png/cc_1082.jpg
   - title: Who moved my servers?
     subtitle:
     description: >

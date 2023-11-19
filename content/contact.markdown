@@ -16,6 +16,7 @@ hero_height: is-small
         <select name="AOI" id="department" required="">
           <option value="Select" selected="" disabled="">Select</option>
           <option value="Candidate Skills Testing">Candidate Skills Testing</option>
+          <option value="Confident Contractor">Confident Contractor</option>
           <option value="Cloud Migration">Cloud Migration</option>
           <option value="Managed Platform">Managed Platform</option>
           <option value="Development Process Tooling">Development Process Tooling</option>
@@ -30,8 +31,8 @@ hero_height: is-small
     <div class="column is-4">
     <p>Phone: 01902 213060</p>
     <p>Millard Technical Services Limited<br />
-      86 Tettenhall Road<br />
-      Wolverhampton<br />
-      WV1 4TF</p>
+      F11 3-6 Wadham Street<br />
+      Weston-super-Mare<br />
+      BS23 1JY</p>
     </div>
 </div>
