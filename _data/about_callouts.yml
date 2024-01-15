@@ -15,7 +15,7 @@ items:
       Providing training and support for IT Contractors
       so that they can focus on delivery.
     call_to_action_name: Confident Contractor
-    call_to_action_link: /confident-contractor/
+    call_to_action_link: https://www.confident-contractor.co.uk/
     # size should be 175x175
     image: /assets/png/cc_1082.jpg
   - title: Who moved my servers?
