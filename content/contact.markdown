@@ -31,7 +31,7 @@ hero_height: is-small
     <div class="column is-4">
     <p>Phone: 01902 213060</p>
     <p>Millard Technical Services Limited<br />
-      F11 3-6 Wadham Street<br />
+      The Stable 3-6 Wadham Street<br />
       Weston-super-Mare<br />
       BS23 1JY</p>
     </div>

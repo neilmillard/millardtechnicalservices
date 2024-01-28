@@ -9,13 +9,14 @@ items:
     call_to_action_name: Find out more
     call_to_action_link: /managed-platform/
     image: /assets/png/bargraph.png
-  - title: Our team to help your team
+  - title: Our team to help you
     subtitle:
     description: >
-      Your development team need easy to use tools
-      so that they can focus on delivery.
-    call_to_action_name: Dev Tools
-    call_to_action_link: /dev-process-tools/
+      Stress and worry free IT contracting
+      
+      Contracts, Cash-Flow and Compliance
+    call_to_action_name: Confident Contractor
+    call_to_action_link: /confident-contractor/
     image: /assets/png/people.png
   - title: Need help hiring technical staff?
     subtitle:
