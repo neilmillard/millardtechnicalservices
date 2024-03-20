@@ -4,7 +4,8 @@ items:
   - title: Cloud first for scalability
     subtitle:
     description: >
-      Our team have years of IT experience
+      Our team have years of IT experience and is
+      lead by Award Winning Neil Millard
       to enable your website and applications to scale.
     call_to_action_name: Find out more
     call_to_action_link: /managed-platform/
@@ -21,8 +22,9 @@ items:
   - title: Need help hiring technical staff?
     subtitle:
     description: >
-      We can help with technical interviews.
-      Unbiased report with clear next steps.
+      We can help with technical screening interviews.
+      Assess candidates with an Unbiased report 
+      with clear next steps.
     call_to_action_name: Ready to hire?
     call_to_action_link: /skills-testing/
     image: /assets/png/briefcase.png
