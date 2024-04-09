@@ -188,13 +188,13 @@ We may update this privacy notice from time to time. The updated version will be
 ## **12. HOW CAN YOU CONTACT US ABOUT THIS NOTICE?**
 
 If you have questions or comments about this notice, you may contact our Data Protection Officer (DPO), Neil Millard, by email at  team@millardtechnicalservices.co.uk, by visiting
-[www.millardtechnicalservices.co.uk](https://www.millardtechnicalservices.co.uk/), by phone at 01902213060, or contact us by post at:
+[www.millardtechnicalservices.co.uk](https://www.millardtechnicalservices.co.uk/), by phone at 03302232732, or contact us by post at:
 
 Neil Millard<br>
 Millard Technical Services Ltd<br>
-86 Tettenhall Road<br>
-WOLVERHAMPTON, West Midlands WV1 4TF<br>
-England
+The Stable 3-6 Wadham Street <br />
+Weston-super-Mare<br />
+BS23 1JY<br />
 
 
 ## **13. HOW CAN YOU REVIEW, UPDATE, OR DELETE THE DATA WE COLLECT FROM YOU?**
