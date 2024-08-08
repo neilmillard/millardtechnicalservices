@@ -8,7 +8,7 @@ callouts: index_callouts
 hero_height: is-medium
 hero_link: "/about/"
 hero_link_text: Find out how &gt;
-subtitle: Cloud first development for your business.
+subtitle: Cloud AI and Automation for your business.
 hero_centered: true
 content_title: Welcome to </br>Millard Technical Services
 content-width: is-8

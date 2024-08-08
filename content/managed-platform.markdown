@@ -5,6 +5,14 @@ title: Managed Platform
 permalink: /managed-platform/
 hero_height: is-small
 ---
+AI and Automation enables your business to operate more efficiently.
+
+Your teams can perform deployments and scaling which is designed into your
+business enabling your creative teams to do what they do best.
+
+
+Are you using Cloud servers?
+
 Built to fail is a paradigm you must adopt. Google and
 Amazon build their own servers as cheaply as possible
 knowing that even if they used name brand servers,
@@ -16,9 +24,6 @@ money and design around the failure.
 
 With our managed platform, failures are monitored and auto recovery
 triggered automatically.
-
-Automatic deployments and scaling can also be designed into your
-platform enabling your creative teams to do what they do best.
 
 We always design platforms base on these four principles.
 
