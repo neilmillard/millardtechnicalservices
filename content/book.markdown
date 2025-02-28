@@ -26,7 +26,7 @@ Who moved my servers?
          delights your customers 24/7 and enables you to stay competitive, you need to read this book.
         </p>
         <br/>
-        <p>Available from Amazon in <a href="https://amzn.to/2HxjFXf" class="button is-primary">Paperback</a> and <a href="https://amzn.to/2RbKKig" class="button is-primary">Kindle</a> now.</p>
+        <p>Available from The Shop <a href="https://millardtechnicalservices.com/product/who-moved-my-servers-paperback/" class="button is-primary">Paperback</a> and <a href="https://millardtechnicalservices.com/product/who-moved-my-servers-pdf/" class="button is-primary">eBook</a> now.</p>
     </div>
     <div class="column is-6">
         <figure class="image">

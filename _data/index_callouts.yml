@@ -1,14 +1,14 @@
 style: is-light
 height: is-medium
 items:
-  - title: Cloud first for scalability
+  - title: CI/CD pipeline optimization
     subtitle:
     description: >
       Our team have years of IT experience and is
       lead by Award Winning Neil Millard
-      to automate your business and applications.
+      to automate your build and deployment operations.
     call_to_action_name: Find out more
-    call_to_action_link: /managed-platform/
+    call_to_action_link: /cicd-optimize/
     image: /assets/png/bargraph.png
   - title: Our team to help you
     subtitle:

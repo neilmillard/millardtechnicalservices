@@ -5,6 +5,8 @@
 - name: Services
   link: /services/
   dropdown:
+    - name: CI/CD Optimization
+      link: /cicd-optimize/
     - name: Cloud Migration
       link: /cloud-migration/
     - name: Skills Testing

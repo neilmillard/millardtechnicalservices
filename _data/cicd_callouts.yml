@@ -1,0 +1,21 @@
+style: is-light
+height: is-small
+items:
+  - title: Designed for your team and application
+    subtitle:
+    description: >
+      Have CI/CD pipelines designed to your needs.
+      Enable easy building and deployment.
+    image: /assets/png/bargraph.png
+  - title: Our team to help your team
+    subtitle:
+    description: >
+      Your development team need easy to use tools
+      so that they can focus on delivery.
+    image: /assets/png/people.png
+  - title: Consistent for every environment
+    subtitle:
+    description: >
+      Local development, consistent with 
+      test and production, to remove deployment surprise
+    image: /assets/png/briefcase.png
